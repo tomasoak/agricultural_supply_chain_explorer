@@ -2,12 +2,14 @@
 <br>
 
 ## :mag_right: About
-Exploring [Trase.Earth's](https://trase.earth/) international agricultural supply chains.
+This project is an dashboard built using well stablished technologies where it's possible to explore [Trase's](https://trase.earth/) international agricultural supply chains. Trase (Intelligence for Sustainable Trade) is a data-driven transparency initiative that revolutionizes our understanding of the international trade and financing of agricultural commodities that drive tropical deforestation, such as soy, palm oil, beef, cocoa, and coffee. The dataset used can be accessed [here](https://www.splitgraph.com/trase-development).
 <br>
-Since this is a private project, here I only present a gif to showcase what was developed.
+<br>
+Since this is an internal private project, here I only present a gif to showcase what was developed.
+
+<br>
 
 ![](https://github.com/tomasoak/agricultural_supply_chain_explorer/blob/0df0d565c2746558a7403e1626e4b0c49512e974/SEIPCS_Explorer_Demo.gif)
-
 
 
 <br>
@@ -17,8 +19,10 @@ Since this is a private project, here I only present a gif to showcase what was 
 - [Python](https://www.python.org/)
 - [Dash](https://dash.plotly.com/introduction#:~:text=Dash%20is%20an%20open%20source,Enterprise%20on%20Azure%20Kubernetes%20Service.)
 - [Docker](https://www.docker.com/)
-- [Requests](https://requests.readthedocs.io/en/latest/)
 - [Poetry](https://python-poetry.org/)
+- [Requests](https://requests.readthedocs.io/en/latest/)
+- [Splitgrpah](https://www.splitgraph.com/)
+
 
 <br>
 
