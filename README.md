@@ -1,4 +1,4 @@
-<h1 align="center"> Agriculture Supply Chain Explorer </h1>
+<h1 align="center"> Agricultural Supply Chain Explorer </h1>
 <br>
 
 ## :mag_right: About
@@ -18,5 +18,4 @@ Exploring [Trase.Earth's](https://trase.earth/) international agricultural suppl
 <br>
 
 ## 📝 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
