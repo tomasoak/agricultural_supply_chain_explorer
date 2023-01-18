@@ -2,10 +2,10 @@
 <br>
 
 ## :mag_right: About
-This project is an dashboard built using well stablished technologies where it's possible to explore [Trase's](https://trase.earth/) international agricultural supply chains. Trase (Intelligence for Sustainable Trade) is a data-driven transparency initiative that revolutionizes our understanding of the international trade and financing of agricultural commodities that drive tropical deforestation, such as soy, palm oil, beef, cocoa, and coffee. The dataset used can be accessed [here](https://www.splitgraph.com/trase-development).
+This project is an real-time interactive dashboard built using well stablished technologies where it's possible to explore [Trase's](https://trase.earth/) international agricultural supply chains. Trase (Intelligence for Sustainable Trade) is a data-driven transparency initiative that revolutionizes our understanding of the international trade and financing of agricultural commodities that drive tropical deforestation, such as soy, palm oil, beef, cocoa, and coffee. The dataset used can be accessed [here](https://www.splitgraph.com/trase-development).
 <br>
 <br>
-Since this is an internal private project, here I only present a gif to showcase what was developed.
+Since this is an internal private project, here I only present a `.gif` to showcase what was developed.
 
 <br>
 
