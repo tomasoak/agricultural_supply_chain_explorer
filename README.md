@@ -21,7 +21,8 @@ Since this is an internal private project, here I only present a `.gif` to showc
 - [Docker](https://www.docker.com/)
 - [Poetry](https://python-poetry.org/)
 - [Requests](https://requests.readthedocs.io/en/latest/)
-- [Splitgrpah](https://www.splitgraph.com/)
+- [Splitgraph](https://www.splitgraph.com/)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
 
 
 <br>
