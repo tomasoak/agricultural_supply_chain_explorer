@@ -2,7 +2,12 @@
 <br>
 
 ## :mag_right: About
-Exploring [Trase.Earth's](https://trase.earth/) international agricultural supply chains
+Exploring [Trase.Earth's](https://trase.earth/) international agricultural supply chains.
+<br>
+Since this is a private project, here I only present a gif to showcase what was developed.
+
+![](https://github.com/tomasoak/agricultural_supply_chain_explorer/blob/0df0d565c2746558a7403e1626e4b0c49512e974/SEIPCS_Explorer_Demo.gif)
+
 
 
 <br>
